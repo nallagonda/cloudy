@@ -1,0 +1,6 @@
+[submodule "wordcram"]
+	path = wordcram
+	url = https://github.com/danbernier/WordCram.git
+[submodule "cloudy/wordcram"]
+	path = cloudy/wordcram
+	url = https://github.com/danbernier/WordCram.git
